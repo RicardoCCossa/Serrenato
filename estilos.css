@@ -3,7 +3,10 @@ body {
   --bege: #E6E0D6;
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463; 
-  height: 4000px;
+}
+
+.botao-padrao {
+  background-color: var(--marrom-claro);
 }
 
 input[type=checkbox] {
